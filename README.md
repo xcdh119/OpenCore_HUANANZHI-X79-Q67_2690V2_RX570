@@ -23,7 +23,7 @@
 
 ## 注意
 - **本人不是专门折腾黑苹果的，如有错误请谅解并多多指教**
-- **（25.5.30更新，祝大家端午节安康）上传了一张关于本机截图：![微信图片_20250530165914_233](https://github.com/user-attachments/assets/8e054c45-a0d9-4c04-8c5f-9a481d5c4ac7)**
+- **（25.5.30更新，祝大家端午节安康）上传了一张关于本机截图：![微信图片_20250530165914_233](https://github.com/user-attachments/assets/84962e05-0844-44ad-ab03-739f8e31a4b4)**
 - **（25.5.30更新）自25.5.30版本起，使用EFI请自行生成序列号等信息：![wechat_2025-05-30_170153_560](https://github.com/user-attachments/assets/84737db1-4b7e-4d97-b497-e594e99886cc)**
 - **为正常使用iCloud、iMessage、FaceTime，在24.5.5版本的EFI中已添加EN0网卡，使用军刀工具查看电脑EN0网卡：![image](https://github.com/2970894475/OpenCore_HUANANZHI-X79-Q67_2690V2_RX570/assets/61039538/d19b5c61-c087-4da5-b361-123972c45567)
 对应的PCIe地址是![image](https://github.com/2970894475/OpenCore_HUANANZHI-X79-Q67_2690V2_RX570/assets/61039538/4b11616e-d836-4f78-b02a-868ae6d794ca)，使用OCC工具添加并设置好后![image](https://github.com/2970894475/OpenCore_HUANANZHI-X79-Q67_2690V2_RX570/assets/61039538/f2a6b0bb-897c-41d4-a0f6-a73da55764ee)再设置机型平台设置中的ROM![image](https://github.com/2970894475/OpenCore_HUANANZHI-X79-Q67_2690V2_RX570/assets/61039538/e16e5f5e-ea42-410e-9f49-9caebde338f0)点击来自系统，点击Mac，点击生成，保存关闭重启电脑，清除NVRAM，开机后再次登陆Apple ID即可**
