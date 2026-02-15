@@ -18,7 +18,7 @@
 
 ## EFI基本信息
 - **当前OpenCore版本为1.0.4（25.5.30更新）**
-- **如有侵权请联系：tdsn119@icloud.com**
+- **如有侵权请联系邮箱：xcdh119@qq.com**
 - **此EFI适用于H61/Q63/65/67等魔改的芯片组，使用前请仔细阅读需要的注意事项**
 - **debug状态：启动参数无硬件加速、有日志输出，`-amd_no_dgpu_accel`禁用硬件加速，`-v`日志输出（跑码）**
 - **IvyBridge-EP平台不支持AVX2.0，但Apple在macOS 13 Ventura以及往上版本删除了对没有AVX2.0指令集芯片的支持，所以启动参数`-crypt_force_avx`以及NoAVXFSCompressionTypeZlib-AVXpel已默认启用**
